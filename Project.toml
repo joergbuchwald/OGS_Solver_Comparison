@@ -1,4 +1,4 @@
-name = "OGS Solver Comparison"
+name = "OGS_Solver_Comparison"
 authors = ["Jörg Buchwald"]
 [compat]
 julia = "1.6.2"
