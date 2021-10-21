@@ -1,0 +1,525 @@
+info: This is OpenGeoSys-6 version 6.4.0-1358-g91e80ece2.dirty.
+info: OGS started on 2021-10-21 18:50:25+0200.
+[0] info: ConstantParameter: E
+[0] info: ConstantParameter: nu
+[0] info: ConstantParameter: displacement0
+[0] info: ConstantParameter: pressure_ic
+[0] info: ConstantParameter: dirichlet0
+[0] info: ConstantParameter: neumann0
+[0] info: ConstantParameter: pressure_bc_left
+[0] info: ConstantParameter: temperature0
+[0] info: ConstantParameter: Tvalue
+[0] info: CurveScaledParameter: temperature1
+[0] info: No source terms for process variable 'pressure' found.
+[0] info: No source terms for process variable 'temperature' found.
+[0] info: Initialize processes.
+[0] info: Solve processes.
+[0] info: [time] Output of timestep 0 took 0.0021527 s.
+[0] info: === Time stepping at step #1 and time 0.1 with step size 0.1
+[0] info: Calculate non-equilibrium initial residuum.
+[0] info: [time] Assembly took 0.00107309 s.
+[0] info: [time] Applying Dirichlet BCs took 2.7466e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.00158262 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=8.7061e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=4.6923e+02, |x|=2.7815e+04, |dx|/|x|=1.6870e-02
+[0] info: [time] Iteration #1 took 0.00271749 s.
+[0] info: [time] Assembly took 0.000931471 s.
+[0] info: [time] Applying Dirichlet BCs took 2.2121e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.00049285 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=8.7061e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=3.0598e+05, |x|=2.7817e+05, |dx|/|x|=1.1000e+00
+[0] info: [time] Iteration #2 took 0.00147721 s.
+[0] info: [time] Assembly took 0.000885205 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0402e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000443264 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=8.7061e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.1884e+07, |x|=2.2162e+07, |dx|/|x|=9.8745e-01
+[0] info: [time] Iteration #3 took 0.00137718 s.
+[0] info: [time] Assembly took 0.000877604 s.
+[0] info: [time] Applying Dirichlet BCs took 2.2742e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000448344 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=8.7061e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=4.9021e+04, |x|=2.2211e+07, |dx|/|x|=2.2070e-03
+[0] info: [time] Iteration #4 took 0.00137792 s.
+[0] info: [time] Assembly took 0.000866566 s.
+[0] info: [time] Applying Dirichlet BCs took 1.9945e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000437705 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=8.7061e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.4422e-01, |x|=2.2211e+07, |dx|/|x|=1.0996e-08
+[0] info: [time] Iteration #5 took 0.00135204 s.
+[0] info: [time] Assembly took 0.000864645 s.
+[0] info: [time] Applying Dirichlet BCs took 1.9619e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000509601 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=8.7061e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=6.6227e-08, |x|=2.2211e+07, |dx|/|x|=2.9817e-15
+[0] info: [time] Iteration #6 took 0.00142237 s.
+[0] info: [time] Solving process #0 took 0.00977802 s in time step #1 
+[0] info: [time] Time step #1 took 0.00983383 s.
+[0] info: [time] Output of timestep 1 took 0.00121847 s.
+[0] info: === Time stepping at step #2 and time 0.2 with step size 0.1
+[0] info: [time] Assembly took 0.000830174 s.
+[0] info: [time] Applying Dirichlet BCs took 1.9982e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000742534 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=9.1207e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.2158e+07, |x|=4.4369e+07, |dx|/|x|=4.9940e-01
+[0] info: [time] Iteration #1 took 0.00162293 s.
+[0] info: [time] Assembly took 0.000859734 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0856e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000449009 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=9.1207e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=5.0416e+04, |x|=4.4419e+07, |dx|/|x|=1.1350e-03
+[0] info: [time] Iteration #2 took 0.00135753 s.
+[0] info: [time] Assembly took 0.000844696 s.
+[0] info: [time] Applying Dirichlet BCs took 1.9671e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000451303 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=9.1207e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.5912e-01, |x|=4.4419e+07, |dx|/|x|=5.8335e-09
+[0] info: [time] Iteration #3 took 0.00134419 s.
+[0] info: [time] Assembly took 0.000898389 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0912e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000471173 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=9.1207e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=7.5513e-08, |x|=4.4419e+07, |dx|/|x|=1.7000e-15
+[0] info: [time] Iteration #4 took 0.00141948 s.
+[0] info: [time] Solving process #0 took 0.0057915 s in time step #2 
+[0] info: [time] Time step #2 took 0.00584408 s.
+[0] info: [time] Output of timestep 2 took 0.00121813 s.
+[0] info: === Time stepping at step #3 and time 0.3 with step size 0.1
+[0] info: [time] Assembly took 0.000857634 s.
+[0] info: [time] Applying Dirichlet BCs took 1.9788e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000744769 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=9.5353e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.2127e+07, |x|=6.6546e+07, |dx|/|x|=3.3250e-01
+[0] info: [time] Iteration #1 took 0.00165285 s.
+[0] info: [time] Assembly took 0.000872805 s.
+[0] info: [time] Applying Dirichlet BCs took 2.03e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000438928 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=9.5353e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=5.0430e+04, |x|=6.6596e+07, |dx|/|x|=7.5725e-04
+[0] info: [time] Iteration #2 took 0.00136247 s.
+[0] info: [time] Assembly took 0.000844097 s.
+[0] info: [time] Applying Dirichlet BCs took 1.9411e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000434292 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=9.5353e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.6006e-01, |x|=6.6596e+07, |dx|/|x|=3.9051e-09
+[0] info: [time] Iteration #3 took 0.00132539 s.
+[0] info: [time] Assembly took 0.000881708 s.
+[0] info: [time] Applying Dirichlet BCs took 1.9929e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000453288 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=9.5353e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=3.7964e-08, |x|=6.6596e+07, |dx|/|x|=5.7007e-16
+[0] info: [time] Iteration #4 took 0.00138352 s.
+[0] info: [time] Solving process #0 took 0.00577175 s in time step #3 
+[0] info: [time] Time step #3 took 0.00582328 s.
+[0] info: [time] Output of timestep 3 took 0.00118193 s.
+[0] info: === Time stepping at step #4 and time 0.4 with step size 0.1
+[0] info: [time] Assembly took 0.000838658 s.
+[0] info: [time] Applying Dirichlet BCs took 2.1589e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000733891 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=9.9498e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.2096e+07, |x|=8.8692e+07, |dx|/|x|=2.4913e-01
+[0] info: [time] Iteration #1 took 0.00162573 s.
+[0] info: [time] Assembly took 0.000919597 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0769e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000440403 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=9.9498e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=5.0444e+04, |x|=8.8742e+07, |dx|/|x|=5.6843e-04
+[0] info: [time] Iteration #2 took 0.00140877 s.
+[0] info: [time] Assembly took 0.0008438 s.
+[0] info: [time] Applying Dirichlet BCs took 1.9654e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000444899 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=9.9498e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.6101e-01, |x|=8.8742e+07, |dx|/|x|=2.9413e-09
+[0] info: [time] Iteration #3 took 0.00133615 s.
+[0] info: [time] Assembly took 0.000927403 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0722e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000474197 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=9.9498e+02, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=3.6239e-08, |x|=8.8742e+07, |dx|/|x|=4.0836e-16
+[0] info: [time] Iteration #4 took 0.00145133 s.
+[0] info: [time] Solving process #0 took 0.00586965 s in time step #4 
+[0] info: [time] Time step #4 took 0.00592165 s.
+[0] info: [time] Output of timestep 4 took 0.00119426 s.
+[0] info: === Time stepping at step #5 and time 0.5 with step size 0.1
+[0] info: [time] Assembly took 0.000886217 s.
+[0] info: [time] Applying Dirichlet BCs took 2.1391e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000727388 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.0364e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.2064e+07, |x|=1.1081e+08, |dx|/|x|=1.9912e-01
+[0] info: [time] Iteration #1 took 0.00166588 s.
+[0] info: [time] Assembly took 0.000868146 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0101e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000427487 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.0364e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=5.0458e+04, |x|=1.1086e+08, |dx|/|x|=4.5516e-04
+[0] info: [time] Iteration #2 took 0.00134311 s.
+[0] info: [time] Assembly took 0.000874478 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0726e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000466689 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.0364e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.6197e-01, |x|=1.1086e+08, |dx|/|x|=2.3631e-09
+[0] info: [time] Iteration #3 took 0.00138989 s.
+[0] info: [time] Assembly took 0.000823767 s.
+[0] info: [time] Applying Dirichlet BCs took 1.8732e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000456598 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.0364e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.5688e-08, |x|=1.1086e+08, |dx|/|x|=2.3173e-16
+[0] info: [time] Iteration #4 took 0.00132712 s.
+[0] info: [time] Solving process #0 took 0.00577413 s in time step #5 
+[0] info: [time] Time step #5 took 0.00582826 s.
+[0] info: [time] Output of timestep 5 took 0.00121732 s.
+[0] info: === Time stepping at step #6 and time 0.6 with step size 0.1
+[0] info: [time] Assembly took 0.000853781 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0576e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000726934 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.0779e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.2033e+07, |x|=1.3289e+08, |dx|/|x|=1.6580e-01
+[0] info: [time] Iteration #1 took 0.00163116 s.
+[0] info: [time] Assembly took 0.000861095 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0954e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000458378 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.0779e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=5.0471e+04, |x|=1.3294e+08, |dx|/|x|=3.7966e-04
+[0] info: [time] Iteration #2 took 0.00136933 s.
+[0] info: [time] Assembly took 0.000868663 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0447e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000452531 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.0779e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.6293e-01, |x|=1.3294e+08, |dx|/|x|=1.9778e-09
+[0] info: [time] Iteration #3 took 0.0013708 s.
+[0] info: [time] Assembly took 0.000954223 s.
+[0] info: [time] Applying Dirichlet BCs took 2.1254e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000454051 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.0779e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.8217e-08, |x|=1.3294e+08, |dx|/|x|=2.1226e-16
+[0] info: [time] Iteration #4 took 0.0014584 s.
+[0] info: [time] Solving process #0 took 0.00587854 s in time step #6 
+[0] info: [time] Time step #6 took 0.00593134 s.
+[0] info: [time] Output of timestep 6 took 0.00122161 s.
+[0] info: === Time stepping at step #7 and time 0.7 with step size 0.1
+[0] info: [time] Assembly took 0.000839432 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0171e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000716707 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.1194e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.2001e+07, |x|=1.5494e+08, |dx|/|x|=1.4200e-01
+[0] info: [time] Iteration #1 took 0.00160595 s.
+[0] info: [time] Assembly took 0.000880089 s.
+[0] info: [time] Applying Dirichlet BCs took 2.08e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.00045986 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.1194e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=5.0485e+04, |x|=1.5499e+08, |dx|/|x|=3.2573e-04
+[0] info: [time] Iteration #2 took 0.00139008 s.
+[0] info: [time] Assembly took 0.000905385 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0618e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000466399 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.1194e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.6390e-01, |x|=1.5499e+08, |dx|/|x|=1.7027e-09
+[0] info: [time] Iteration #3 took 0.00142152 s.
+[0] info: [time] Assembly took 0.000916426 s.
+[0] info: [time] Applying Dirichlet BCs took 2.1867e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000458496 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.1194e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=5.9504e-08, |x|=1.5499e+08, |dx|/|x|=3.8392e-16
+[0] info: [time] Iteration #4 took 0.00142678 s.
+[0] info: [time] Solving process #0 took 0.00589219 s in time step #7 
+[0] info: [time] Time step #7 took 0.00594554 s.
+[0] info: [time] Output of timestep 7 took 0.00123422 s.
+[0] info: === Time stepping at step #8 and time 0.8 with step size 0.1
+[0] info: [time] Assembly took 0.000879071 s.
+[0] info: [time] Applying Dirichlet BCs took 2.1509e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000730554 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.1608e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.1969e+07, |x|=1.7696e+08, |dx|/|x|=1.2415e-01
+[0] info: [time] Iteration #1 took 0.00166187 s.
+[0] info: [time] Assembly took 0.000913933 s.
+[0] info: [time] Applying Dirichlet BCs took 2.1234e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000441641 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.1608e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=5.0499e+04, |x|=1.7701e+08, |dx|/|x|=2.8528e-04
+[0] info: [time] Iteration #2 took 0.00140644 s.
+[0] info: [time] Assembly took 0.000889615 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0305e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000453403 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.1608e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.6487e-01, |x|=1.7701e+08, |dx|/|x|=1.4963e-09
+[0] info: [time] Iteration #3 took 0.00139227 s.
+[0] info: [time] Assembly took 0.000896296 s.
+[0] info: [time] Applying Dirichlet BCs took 1.9989e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000447693 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.1608e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=5.0367e-08, |x|=1.7701e+08, |dx|/|x|=2.8454e-16
+[0] info: [time] Iteration #4 took 0.00139216 s.
+[0] info: [time] Solving process #0 took 0.00590099 s in time step #8 
+[0] info: [time] Time step #8 took 0.00595251 s.
+[0] info: [time] Output of timestep 8 took 0.00119992 s.
+[0] info: === Time stepping at step #9 and time 0.9 with step size 0.1
+[0] info: [time] Assembly took 0.000892978 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0988e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000770464 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.2023e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.1938e+07, |x|=1.9895e+08, |dx|/|x|=1.1027e-01
+[0] info: [time] Iteration #1 took 0.00172318 s.
+[0] info: [time] Assembly took 0.000911935 s.
+[0] info: [time] Applying Dirichlet BCs took 2.1307e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000463752 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.2023e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=5.0512e+04, |x|=1.9900e+08, |dx|/|x|=2.5383e-04
+[0] info: [time] Iteration #2 took 0.00142591 s.
+[0] info: [time] Assembly took 0.000900536 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0485e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000462296 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.2023e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.6585e-01, |x|=1.9900e+08, |dx|/|x|=1.3359e-09
+[0] info: [time] Iteration #3 took 0.00141319 s.
+[0] info: [time] Assembly took 0.000882545 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0961e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000441225 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.2023e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=5.4502e-08, |x|=1.9900e+08, |dx|/|x|=2.7388e-16
+[0] info: [time] Iteration #4 took 0.00137379 s.
+[0] info: [time] Solving process #0 took 0.00598397 s in time step #9 
+[0] info: [time] Time step #9 took 0.00603535 s.
+[0] info: [time] Output of timestep 9 took 0.00123188 s.
+[0] info: === Time stepping at step #10 and time 1 with step size 0.1
+[0] info: [time] Assembly took 0.00089806 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0502e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000750809 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.2437e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.1906e+07, |x|=2.2091e+08, |dx|/|x|=9.9163e-02
+[0] info: [time] Iteration #1 took 0.00169964 s.
+[0] info: [time] Assembly took 0.000899833 s.
+[0] info: [time] Applying Dirichlet BCs took 2.1224e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000443725 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.2437e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=5.0525e+04, |x|=2.2096e+08, |dx|/|x|=2.2867e-04
+[0] info: [time] Iteration #2 took 0.00139329 s.
+[0] info: [time] Assembly took 0.000890634 s.
+[0] info: [time] Applying Dirichlet BCs took 2.0478e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.000448667 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.2437e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=2.6683e-01, |x|=2.2096e+08, |dx|/|x|=1.2076e-09
+[0] info: [time] Iteration #3 took 0.00138833 s.
+[0] info: [time] Assembly took 0.000993518 s.
+[0] info: [time] Applying Dirichlet BCs took 2.1616e-05 s.
+
+================================================
+Linear solver gmres with lu preconditioner
+converged in 1 iterations (relative convergence criterion fulfilled).
+================================================
+[0] info: [time] Linear solver took 0.00045784 s.
+[0] info: Convergence criterion, component 0: |dx|=0.0000e+00, |x|=1.2437e+03, |dx|/|x|=0.0000e+00
+[0] info: Convergence criterion, component 1: |dx|=8.5197e-08, |x|=2.2096e+08, |dx|/|x|=3.8558e-16
+[0] info: [time] Iteration #4 took 0.00150659 s.
+[0] info: [time] Solving process #0 took 0.00603667 s in time step #10 
+[0] info: [time] Time step #10 took 0.0060885 s.
+[0] info: [time] Output of timestep 10 took 0.00128668 s.
+[0] info: The whole computation of the time stepping took 10 steps, in which
+	 the accepted steps are 10, and the rejected steps are 0.
+
+[0] info: [time] Execution took 0.0821517 s.
+[0] info: OGS terminated on 2021-10-21 18:50:25+0200.
